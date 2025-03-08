@@ -4,8 +4,10 @@
 
 2、必须要在页面上点击一下node start
 
-3、修改config里面的wallet_addresses.txt，格式如下：
-
+3、修改config里面的accounts.txt，格式如下：
+一行一个
 ```txt
-钱包地址||||代理
+钱包私钥
 ```
+proxy.txt
+一行一个
